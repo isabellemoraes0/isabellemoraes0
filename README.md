@@ -2,5 +2,4 @@
 ## Tenho 15 anos 
 ### Gosto de batata 
 #### Sou prima da Sarah
-##### Gosto de ler 
-###### Gosto de tocar violão 
+##### Gosto de tocar violão 
